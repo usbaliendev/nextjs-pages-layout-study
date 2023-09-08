@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project shows off an example of [Next.js 13](https://nextjs.org/) with it's fancy `loading.tsx` `error.tsx` `layout.tsx` and `not-found.tsx` pages.
 
-View the project right here ⚡ [nextjs-pages-layout-study.vercel.app](nextjs-pages-layout-study.vercel.app)
+View the project right here ⚡ [https://nextjs-pages-layout-study.vercel.app/](https://nextjs-pages-layout-study.vercel.app/)
 
 ## NextJS 13 Documentation
 
