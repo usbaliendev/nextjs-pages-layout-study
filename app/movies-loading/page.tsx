@@ -4,7 +4,7 @@ import getMovies from "@/utils/getMovies";
 import BackArrow from "@/components/ui/BackArrow";
 
 export default async function Movies() {
-  const movies: MoviesType = await getMovies(1500);
+  const movies: MoviesType = await getMovies(3500);
   return (
     <main className='flex min-h-screen flex-col items-center justify-between text-center p-24'>
       {/* Header */}

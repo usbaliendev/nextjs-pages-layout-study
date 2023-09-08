@@ -29,7 +29,7 @@ export default function MoviesLoading() {
             <div className='bg-gray-700/50 my-6 px-6 rounded-lg'>
               <h2 className='text-lg invisible'>This is a skeleton render</h2>
             </div>
-            <div className='w-full sm:w-52 md:w-52 lg:w-[1024px]  bg-gray-700/50 h-48 lg:h-96 rounded-2xl'></div>
+            <div className='w-full md:w-52 lg:w-[1024px]  bg-gray-700/50 h-48 lg:h-96 rounded-2xl'></div>
           </div>
         ))}
       </div>
