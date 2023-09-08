@@ -3,7 +3,7 @@ import Link from "next/link";
 const BackArrow = () => {
   return (
     <Link href='/' legacyBehavior>
-      <a className='bg-black text-white rounded-full cursor-pointer'>
+      <a className='bg-black text-white rounded-full cursor-pointer mr-5'>
         <svg
           xmlns='http://www.w3.org/2000/svg'
           className='h-6 w-6 text-white'
